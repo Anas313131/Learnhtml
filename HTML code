@@ -1,0 +1,76 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>WEBSITE</title>
+</head>
+<body>
+    <div style="background-color:mediumpurple;">
+    <fieldset>
+    <header>
+        <h1 style="text-align: center;">WEBSITE</h1>
+        
+    </header>
+    </fieldset>
+    </div>
+    </body>
+    <section>
+    <nav>
+        <a href="#">HOME</a>
+        <a href="#" rowspan="30">ABOUT US</a>
+        <a href="#" rowspan="30">PLACMENT</a>
+     </nav>
+     <br>
+    <a href="https://www.google.com/">GOOGLE</a>
+    <ul>
+        <li>It is a good search engine which is used globally </li>
+        <li>It helps people to get connected even if they r sitting at two corners of earth</li>
+        <li>It is a future most usable search engine</li>
+    </ul>
+    <img src="doremon.jpg" alt="doremon image" height="100" width="100">
+    <br>
+    <video width="500px" poster="doremon.jpgs" controls>
+        <source src="INTRO.mp4" type="video/mp4">
+    </video>
+    <video width="500px" controls>
+        <source src="Trees.mp4" type="video/mp4">    
+    </video>
+    <br>
+    <hr>
+    <a href="#">Email ID</a>
+    <hr>
+
+    
+<h3>FORM FILLING</h3>
+    <p>A form is a document with spaces (also named fields or placeholders) in which to write or select, for a series
+     of documents with similar contents. The documents usually have the printed parts in common, except, possibly, for a serial number.
+     Forms, when completed, may be a statement, a request, an order, etc.; a check may be a form. Also there are forms for taxes; filling 
+     one in is a duty to have determined how much tax one owes, and/or the form is a request for a refund. See also Tax return.
+    </p>
+<form action="">
+    <p> Name:      <input type="text" name="name"></p>
+     <p>Password:  <input type="Password"></p>
+    <div>
+    <fieldset>
+        <legend>Gender</legend>
+        <p>Male: <input type="radio" name="male"></p>
+        <p>Female:<input type="radio" name="female"></p>
+    </fieldset>
+    </div>
+    <p>Address:<textarea cols="40" rows="13"></textarea></p>
+    <p><input type="file"></p>
+    <p><input type="submit"> <input type="reset"></p>
+</section>
+<footer style="background-color: aqua;">
+    <a href="#">COURSE</a>&nbsp;&nbsp;
+    <a href="#">YOUTUBE</a>&nbsp;&nbsp;
+    <a href="#">INSTAGRAM</a>&nbsp;&nbsp;
+<br>
+    <hr>
+    ADDRESS:Mehrauli - Badarpur Rd, near Batra Hospital, Block D, Hamdard Nagar, New Delhi, Delhi 110062
+    <br>
+    CONTACT US:- 99933399
+</footer>
+</form>
+</body>
+</html>
